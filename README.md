@@ -1,6 +1,8 @@
-**Money Manager App**
+# **Money Manager App**
 
-# Problems for fixing
+Welcome to your money manager. Where nothing is personal. Your money is **OUR** money. (this is a joke haha)
+
+## Problems for fixing
 
 Problem if the total balance, total income, and total expenses goes more than many values for all the widget that needs this value
 
