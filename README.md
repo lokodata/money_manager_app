@@ -2,12 +2,7 @@
 
 Welcome to your money manager. Where nothing is personal. Your money is **OUR** money. (this is a joke haha)
 
-<img src="assets/mockup/Screenshot_1712559723.png" alt="Splash Page" width="150">
-<img src="assets/mockup/Screenshot_1712559727.png" alt="Add Name Page" width="150">
-<img src="assets/mockup/Screenshot_1712560637.png" alt="Home Page" width="150">
-
-<img src="assets/mockup/Screenshot_1712560624.png" alt="Home Page II" width="150">
-<img src="assets/mockup/Screenshot_1712560651.png" alt="Add Transaction" width="150">
+<img src="assets/mockup/Screenshot_1712559723.png" alt="Splash Page" width="150">&nbsp;&nbsp;&nbsp; <img src="assets/mockup/Screenshot_1712559727.png" alt="Add Name Page" width="150">&nbsp;&nbsp;&nbsp; <img src="assets/mockup/Screenshot_1712560637.png" alt="Home Page" width="150">&nbsp;&nbsp;&nbsp; <br> <img src="assets/mockup/Screenshot_1712560624.png" alt="Home Page II" width="150"> &nbsp;&nbsp;&nbsp; <img src="assets/mockup/Screenshot_1712560651.png" alt="Add Transaction" width="150">
 
 ## Problems for fixing
 
