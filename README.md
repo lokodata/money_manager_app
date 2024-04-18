@@ -2,6 +2,12 @@
 
 Welcome to your money manager. Where nothing is personal. Your money is **OUR** money. (this is a joke haha)
 
+![Splash Page](assets/mockup/Screenshot_1712559723.png)
+![Add Name Page](assets/mockup/Screenshot_1712559727.png)
+![Home Page](assets/mockup/Screenshot_1712560637.png)
+![Home Page II](assets/mockup/Screenshot_1712560624.png)
+![Add Transaction](assets/mockup/Screenshot_1712560651.png)
+
 ## Problems for fixing
 
 Problem if the total balance, total income, and total expenses goes more than many values for all the widget that needs this value
